@@ -1,4 +1,4 @@
-# Menu Engineering & Sales Optimization
+# ![alt text](assets/menu.png) Menu Engineering & Sales Optimization
 
 This project analyzes restaurant POS data to uncover high- and low-performing menu items using the **Menu Engineering Matrix** — then models strategic interventions to increase profitability.
 
