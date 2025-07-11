@@ -1,4 +1,4 @@
-![alt text](assets/pexels-pixabay-276147 (1).jpg)
+![pexels-pixabay-276147 (1)](https://github.com/user-attachments/assets/e6663617-3f9b-4ea1-b03a-b4edd31a3e6b)
 
 # Menu Engineering & Sales Optimization
 
