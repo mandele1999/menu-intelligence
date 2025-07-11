@@ -42,7 +42,7 @@ This project analyzes restaurant POS data to uncover high- and low-performing me
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
