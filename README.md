@@ -1,9 +1,9 @@
 ![pexels-pixabay-276147 (1)](https://github.com/user-attachments/assets/e6663617-3f9b-4ea1-b03a-b4edd31a3e6b)
 Photo [Source:](https://www.pexels.com/photo/diner-menu-board-276147/)
 
-# Smart Menu Design: Insights, Strategy & Revenue Impact
+# Menu Engineering & Sales Optimization
 
-This project analyzes restaurant POS data to uncover high and low-performing menu items using the **Menu Engineering Matrix** — then models strategic interventions to increase profitability.
+This project analyzes restaurant POS data to uncover high and low-performing menu items, then models strategic interventions to increase profitability.
 
 ---
 
